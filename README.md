@@ -1,0 +1,1 @@
+Hand digit recognition with using QR Decomposition with the help of Solving the least squares problem from MNIST dataset.
